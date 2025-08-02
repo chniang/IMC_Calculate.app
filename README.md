@@ -6,7 +6,7 @@ Bienvenue dans cette mini-application développée avec [Streamlit](https://stre
 
 ## 🚀 Fonctionnalités
 
-- Entrée du **poids** en kilogrammes (Kg)
+- Entrée du **poids** en kilogrammes (Kg)  
 - Entrée de la **taille** dans trois formats :
   - centimètres (cm)
   - mètres (m)
@@ -29,15 +29,11 @@ pip install streamlit
 Dans le terminal, à la racine du projet (où se trouve app.py), exécutez :
 
 bash
-Copier
-Modifier
 streamlit run app.py
 L'application s’ouvrira automatiquement dans votre navigateur.
 
 📂 Structure du projet
 bash
-Copier
-Modifier
 .
 ├── app.py          # Code source de l'application
 ├── .streamlit/
@@ -55,8 +51,6 @@ Les couleurs des champs de saisie
 Exemple de configuration :
 
 toml
-Copier
-Modifier
 [theme]
 base="dark"
 primaryColor="#FFFFFF"
@@ -77,21 +71,8 @@ L’IMC est un indicateur simple du poids par rapport à la taille, utilisé pou
 🚨 Plus de 30 : Obésité
 
 📬 Contact
-Développé par Cheikh Niang.
-Tu peux me retrouver sur LinkedIn ou sur GitHub.
+Développé par Cheikh Niang
+Tu peux me retrouver sur LinkedIn ou sur GitHub
 
 📄 Licence
-Ce projet est open source 
-
----
-
-
-
-
-
-
-
-
-
-
-Demander à ChatGPT
+Ce projet est open source .
