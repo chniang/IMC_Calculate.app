@@ -49,8 +49,6 @@ La couleur des boutons
 Les couleurs des champs de saisie
 
 Exemple de configuration :
-
-toml
 [theme]
 base="dark"
 primaryColor="#FFFFFF"
